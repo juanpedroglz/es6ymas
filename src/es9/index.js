@@ -5,7 +5,7 @@ const obj = {
 }
 
 let {name, ...all} = obj;
-console.log(name);
+console.log(all);
 
 //Propagacion
 

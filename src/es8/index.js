@@ -24,3 +24,13 @@ console.log(values);
 const nombre = 'Juan';
 console.log(nombre.padStart(9,'Pedro'));
 console.log(nombre.padEnd(9,'Pedro'));
+
+const helloWorld = () => {
+    return new Promise((resolve,reject) => {
+        (true)
+        ? setTimeout(()=>)
+    }
+    
+    
+    )
+}
